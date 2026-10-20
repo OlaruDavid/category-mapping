@@ -1,0 +1,18 @@
+.venv/
+__pycache__/
+.idea/
+.DS_Store
+.pytest_cache/
+
+# datele de intrare ale companiei: nu le publica
+our_categories.csv
+supplier_products.csv
+labelled_products.csv
+sales.csv
+
+# fisier mare, regenerabil
+output/product_predictions.csv
+
+# enunt si note personale
+BRIEF.md
+NOTES.md
